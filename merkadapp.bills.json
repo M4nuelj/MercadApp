@@ -1,0 +1,3635 @@
+[{
+  "id": "65f50fb0f510bd96ebaede42",
+  "bill_description": "Miel de abejas",
+  "product_name": "Miel"
+},
+{
+  "id": "65f50fabf510bd96ebaede22",
+  "bill_description": "Arandanos",
+  "product_name": "Arandanos natural"
+},
+{
+  "id": "65f50faaf510bd96ebaede1b",
+  "bill_description": "Queso bloque VI",
+  "product_name": "Queso bloque"
+},
+{
+  "id": "65f50fa7f510bd96ebaede0c",
+  "bill_description": "Salsa de soya",
+  "product_name": "Salsa de soya"
+},
+{
+  "id": "65f50fa9f510bd96ebaede16",
+  "bill_description": "Bebida de almendra",
+  "product_name": "Leche de almendras"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado fit integral",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50fadf510bd96ebaede2e",
+  "bill_description": "Jabon de baño avena",
+  "product_name": "Jabon de baño"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfa",
+  "bill_description": "Atun en agua",
+  "product_name": "Atún"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf5",
+  "bill_description": "Galleta tradicional",
+  "product_name": "Galletas de soda"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon ideal",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fadf510bd96ebaede2c",
+  "bill_description": "Spaghetti",
+  "product_name": "Spaghetti"
+},
+{
+  "id": "65f50fadf510bd96ebaede2f",
+  "bill_description": "Crema dental max white",
+  "product_name": "Crema de dientes"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3d",
+  "bill_description": "Café organico",
+  "product_name": "Café"
+},
+{
+  "id": "65f50fb0f510bd96ebaede41",
+  "bill_description": "Avena hojuela",
+  "product_name": "Avena"
+},
+{
+  "id": "65f50fa9f510bd96ebaede14",
+  "bill_description": "Yogurt griego fit",
+  "product_name": "Yogurth griego"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Pernil (Contramuslo)",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Bandeja de fresas",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50faaf510bd96ebaede1d",
+  "bill_description": "Durazno",
+  "product_name": "Melocoton"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf9",
+  "bill_description": "Champiñon natural bandeja",
+  "product_name": "Champiñones"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango Tommy",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevo campesino AAA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimenton",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb1f510bd96ebaede48",
+  "bill_description": "Tomate cherry",
+  "product_name": "Tomate cherry"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50fb3f510bd96ebaede4f",
+  "bill_description": "Cebolla roja",
+  "product_name": "Cebolla roja"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa capira",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate hass",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50facf510bd96ebaede2a",
+  "bill_description": "Tabla molida light",
+  "product_name": "Carne molida"
+},
+{
+  "id": "65f50faef510bd96ebaede36",
+  "bill_description": "Camarones en bolsa",
+  "product_name": "Camarones"
+},
+{
+  "id": "65f50faff510bd96ebaede38",
+  "bill_description": "Salmon",
+  "product_name": "Salmon"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga campesina sin piel",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede26",
+  "bill_description": "Solomo extranjero",
+  "product_name": "Res"
+},
+{
+  "id": "65f50fa9f510bd96ebaede17",
+  "bill_description": "Chorizo mixto",
+  "product_name": "Chorizos"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3f",
+  "bill_description": "Aceite de oliva",
+  "product_name": "Aceite de oliva"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf2",
+  "bill_description": "Tostadas",
+  "product_name": "Tostadas"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon ideal",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado fit integral",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf8",
+  "bill_description": "Harina de maiz",
+  "product_name": "Harina pan"
+},
+{
+  "id": "65f50faef510bd96ebaede31",
+  "bill_description": "Seda dental",
+  "product_name": "Seda dental"
+},
+{
+  "id": "65f50faaf510bd96ebaede1b",
+  "bill_description": "Queso mozarella",
+  "product_name": "Queso bloque"
+},
+{
+  "id": "65f50fa7f510bd96ebaede0c",
+  "bill_description": "Salsa de soya",
+  "product_name": "Salsa de soya"
+},
+{
+  "id": "65f50fa9f510bd96ebaede16",
+  "bill_description": "Bebida de almendra",
+  "product_name": "Leche de almendras"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Fresas",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50fb3f510bd96ebaede53",
+  "bill_description": "Cilantro",
+  "product_name": "Cilantro"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4a",
+  "bill_description": "Ajo",
+  "product_name": "Ajo"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa capira",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimenton",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga crespa verde",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevo AAA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "Limón Tahití",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fb3f510bd96ebaede4f",
+  "bill_description": "Cebolla roja",
+  "product_name": "Cebolla roja"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla blanca",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Contramuslos",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50facf510bd96ebaede2a",
+  "bill_description": "Tabla molida light",
+  "product_name": "Carne molida"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Bandeja de fresas",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50fb3f510bd96ebaede4f",
+  "bill_description": "Cebolla roja",
+  "product_name": "Cebolla roja"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevos AAA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga crespa verde",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimenton",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa capira ",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa nevada",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate colin",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango parchi",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf2",
+  "bill_description": "Tostadas",
+  "product_name": "Tostadas"
+},
+{
+  "id": "65f50fb1f510bd96ebaede44",
+  "bill_description": "Mantequilla",
+  "product_name": "Mantequilla"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfa",
+  "bill_description": "Atún en agua",
+  "product_name": "Atún"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf5",
+  "bill_description": "Galletas de soda",
+  "product_name": "Galletas de soda"
+},
+{
+  "id": "65f50fa5f510bd96ebaeddfc",
+  "bill_description": "Detergente",
+  "product_name": "Detergente"
+},
+{
+  "id": "65f50fb4f510bd96ebaede54",
+  "bill_description": "Perejil crespo",
+  "product_name": "Perejil"
+},
+{
+  "id": "65f50fabf510bd96ebaede22",
+  "bill_description": "Arandanos natural",
+  "product_name": "Arandanos natural"
+},
+{
+  "id": "65f50faaf510bd96ebaede1b",
+  "bill_description": "Queso bloque",
+  "product_name": "Queso bloque"
+},
+{
+  "id": "65f50fa7f510bd96ebaede0c",
+  "bill_description": "Salsa de soya",
+  "product_name": "Salsa de soya"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Pernil sin piel",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50fa9f510bd96ebaede17",
+  "bill_description": "Chorizo artesanal",
+  "product_name": "Chorizos"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevos",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb4f510bd96ebaede54",
+  "bill_description": "Perejil",
+  "product_name": "Perejil"
+},
+{
+  "id": "65f50fabf510bd96ebaede20",
+  "bill_description": "Piña",
+  "product_name": "Piña"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "Limon Tahití",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimenton",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa Nevada",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50fb3f510bd96ebaede53",
+  "bill_description": "Cilantro",
+  "product_name": "Cilantro"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Fresas",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50faef510bd96ebaede35",
+  "bill_description": "Mostaza",
+  "product_name": "Mostaza"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamón ideal",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3d",
+  "bill_description": "Café organico",
+  "product_name": "Café"
+},
+{
+  "id": "65f50fa6f510bd96ebaede06",
+  "bill_description": "Lavaplatos limón doypack",
+  "product_name": "Jabon de platos"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado fit integral",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf5",
+  "bill_description": "Galleta tradicional",
+  "product_name": "Galletas de soda"
+},
+{
+  "id": "65f50fb1f510bd96ebaede43",
+  "bill_description": "Arroz",
+  "product_name": "Arroz"
+},
+{
+  "id": "65f50fb1f510bd96ebaede44",
+  "bill_description": "Margarina Line",
+  "product_name": "Mantequilla"
+},
+{
+  "id": "65f50fa6f510bd96ebaede02",
+  "bill_description": "Toalla de cocina",
+  "product_name": "toallas de cocina"
+},
+{
+  "id": "65f50fb1f510bd96ebaede45",
+  "bill_description": "Sal",
+  "product_name": "Sal"
+},
+{
+  "id": "65f50fa9f510bd96ebaede16",
+  "bill_description": "Leche de almendras",
+  "product_name": "Leche de almendras"
+},
+{
+  "id": "65f50faaf510bd96ebaede1b",
+  "bill_description": "Queso bloque",
+  "product_name": "Queso bloque"
+},
+{
+  "id": "65f50fabf510bd96ebaede22",
+  "bill_description": "Arandanos natural",
+  "product_name": "Arandanos natural"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50facf510bd96ebaede2a",
+  "bill_description": "Tabla molida light",
+  "product_name": "Carne molida"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4a",
+  "bill_description": "Ajo",
+  "product_name": "Ajo"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimenton",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papas",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fb3f510bd96ebaede4f",
+  "bill_description": "Cebolla roja",
+  "product_name": "Cebolla roja"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Fresas",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fabf510bd96ebaede20",
+  "bill_description": "Piña",
+  "product_name": "Piña"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevos",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb3f510bd96ebaede51",
+  "bill_description": "Papa amarilla",
+  "product_name": "Papa amarilla"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "LIMON",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla blanca",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50faef510bd96ebaede36",
+  "bill_description": "Camarones",
+  "product_name": "Camarones"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfa",
+  "bill_description": "Atún agua",
+  "product_name": "Atún"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf2",
+  "bill_description": "Tostada integral",
+  "product_name": "Tostadas"
+},
+{
+  "id": "65f50fb1f510bd96ebaede43",
+  "bill_description": "Arroz integral",
+  "product_name": "Arroz"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado fit",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50fa9f510bd96ebaede13",
+  "bill_description": "Crema de leche deslactosada ",
+  "product_name": "Crema de leche"
+},
+{
+  "id": "65f50fa9f510bd96ebaede16",
+  "bill_description": "Leche de almendras",
+  "product_name": "Leche de almendras"
+},
+{
+  "id": "65f50fa9f510bd96ebaede15",
+  "bill_description": "Leche",
+  "product_name": "Leche"
+},
+{
+  "id": "65f50fb0f510bd96ebaede42",
+  "bill_description": "Miel",
+  "product_name": "Miel"
+},
+{
+  "id": "65f50faaf510bd96ebaede1b",
+  "bill_description": "Queso bloque",
+  "product_name": "Queso bloque"
+},
+{
+  "id": "65f50faef510bd96ebaede32",
+  "bill_description": "Salsa showy",
+  "product_name": "Salsa showy"
+},
+{
+  "id": "65f50fa7f510bd96ebaede0c",
+  "bill_description": "Salsa de soya",
+  "product_name": "Salsa de soya"
+},
+{
+  "id": "65f50faef510bd96ebaede34",
+  "bill_description": "Salsa de maiz",
+  "product_name": "Salsa de maiz"
+},
+{
+  "id": "65f50fa5f510bd96ebaede01",
+  "bill_description": "esponjas",
+  "product_name": "esponjas"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Fresas bandeja",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fb3f510bd96ebaede4f",
+  "bill_description": "Cebolla roja",
+  "product_name": "Cebolla roja"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga crespa verde",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa capira",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate colin",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevos",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fb1f510bd96ebaede48",
+  "bill_description": "Tomate cherry",
+  "product_name": "Tomate cherry"
+},
+{
+  "id": "65f50fa9f510bd96ebaede14",
+  "bill_description": "Yogurth griego sin dulce",
+  "product_name": "Yogurth griego"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50faff510bd96ebaede38",
+  "bill_description": "Salmon",
+  "product_name": "Salmon"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfa",
+  "bill_description": "Atún",
+  "product_name": "Atún"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3d",
+  "bill_description": "Café",
+  "product_name": "Café"
+},
+{
+  "id": "65f50fadf510bd96ebaede2e",
+  "bill_description": "Jabon de baño",
+  "product_name": "Jabon de baño"
+},
+{
+  "id": "65f50fadf510bd96ebaede2c",
+  "bill_description": "Spaghetti",
+  "product_name": "Spaghetti"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf5",
+  "bill_description": "Galletas de soda",
+  "product_name": "Galletas de soda"
+},
+{
+  "id": "65f50fadf510bd96ebaede2c",
+  "bill_description": "Tornillos",
+  "product_name": "Spaghetti"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf8",
+  "bill_description": "Harina de maiz",
+  "product_name": "Harina pan"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf9",
+  "bill_description": "Champiñones",
+  "product_name": "Champiñones"
+},
+{
+  "id": "65f50fa7f510bd96ebaede0c",
+  "bill_description": "Salsa de soya",
+  "product_name": "Salsa de soya"
+},
+{
+  "id": "65f50fa9f510bd96ebaede15",
+  "bill_description": "Leche",
+  "product_name": "Leche"
+},
+{
+  "id": "65f50fa9f510bd96ebaede16",
+  "bill_description": "Leche de almendras",
+  "product_name": "Leche de almendras"
+},
+{
+  "id": "65f50fabf510bd96ebaede22",
+  "bill_description": "Arandanos natural",
+  "product_name": "Arandanos natural"
+},
+{
+  "id": "65f50facf510bd96ebaede26",
+  "bill_description": "Solomo extranjero",
+  "product_name": "Res"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Filete de pechuga",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Supermuslos friko",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50fa9f510bd96ebaede17",
+  "bill_description": "Chorizo mixto",
+  "product_name": "Chorizos"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga bucanero bandeja",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede26",
+  "bill_description": "Tabla",
+  "product_name": "Res"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "Limon",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50fa9f510bd96ebaede18",
+  "bill_description": "Salchicha llanera",
+  "product_name": "Salchichas"
+},
+{
+  "id": "65f50fa9f510bd96ebaede13",
+  "bill_description": "Crema de leche alqueria",
+  "product_name": "Crema de leche"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevo AA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3d",
+  "bill_description": "Cafe",
+  "product_name": "Café"
+},
+{
+  "id": "65f50fb1f510bd96ebaede44",
+  "bill_description": "Margarina rama line",
+  "product_name": "Mantequilla"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf2",
+  "bill_description": "Tostadas",
+  "product_name": "Tostadas"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "Limon",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfb",
+  "bill_description": "Mermelada",
+  "product_name": "Mermelada"
+},
+{
+  "id": "65f50fa9f510bd96ebaede16",
+  "bill_description": "Leche de almendras",
+  "product_name": "Leche de almendras"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon de pavo",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf9",
+  "bill_description": "Champiñones tajados",
+  "product_name": "Champiñones"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fadf510bd96ebaede2b",
+  "bill_description": "Maruchan",
+  "product_name": "Maruchan"
+},
+{
+  "id": "65f50fb0f510bd96ebaede42",
+  "bill_description": "Miel de abejas",
+  "product_name": "Miel"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga sin piel",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Pernil sin piel",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3d",
+  "bill_description": "Cafe organico",
+  "product_name": "Café"
+},
+{
+  "id": "65f50fb1f510bd96ebaede44",
+  "bill_description": "Mantequilla rama line",
+  "product_name": "Mantequilla"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado brioche",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf2",
+  "bill_description": "Tostadas",
+  "product_name": "Tostadas"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf4",
+  "bill_description": "Galleta avena sin azucar",
+  "product_name": "Galletas de avena"
+},
+{
+  "id": "65f50fadf510bd96ebaede30",
+  "bill_description": "Cepillos",
+  "product_name": "Cepillos de dientes"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon ideal",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fa6f510bd96ebaede06",
+  "bill_description": "Lavaplatos",
+  "product_name": "Jabon de platos"
+},
+{
+  "id": "65f50fadf510bd96ebaede2c",
+  "bill_description": "Spaghetti",
+  "product_name": "Spaghetti"
+},
+{
+  "id": "65f50fadf510bd96ebaede2f",
+  "bill_description": "Crema Extrawhite",
+  "product_name": "Crema de dientes"
+},
+{
+  "id": "65f50fadf510bd96ebaede2d",
+  "bill_description": "Jabon liquido rpto",
+  "product_name": "Jabon de manos"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf3",
+  "bill_description": "Pancakes",
+  "product_name": "Mezcla de pancakes"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3e",
+  "bill_description": "Gelatina sin azucar",
+  "product_name": "Gelatinas"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3d",
+  "bill_description": "Cafe organico",
+  "product_name": "Café"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf4",
+  "bill_description": "Galleta",
+  "product_name": "Galletas de avena"
+},
+{
+  "id": "65f50fa8f510bd96ebaede0f",
+  "bill_description": "Adobo res",
+  "product_name": "Adobo res"
+},
+{
+  "id": "65f50fa8f510bd96ebaede10",
+  "bill_description": "Adobo pollo",
+  "product_name": "Adobo pollo"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfa",
+  "bill_description": "Atun en agua",
+  "product_name": "Atún"
+},
+{
+  "id": "65f50fb1f510bd96ebaede44",
+  "bill_description": "Margarina rama line",
+  "product_name": "Mantequilla"
+},
+{
+  "id": "65f50fa8f510bd96ebaede11",
+  "bill_description": "Adobo pescado",
+  "product_name": "Adobo pescado"
+},
+{
+  "id": "65f50fa8f510bd96ebaede0e",
+  "bill_description": "Adobo cerdo",
+  "product_name": "Adobo cerdo"
+},
+{
+  "id": "65f50fa9f510bd96ebaede13",
+  "bill_description": "Crema de leche alqueria",
+  "product_name": "Crema de leche"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3f",
+  "bill_description": "Aceite de oliva",
+  "product_name": "Aceite de oliva"
+},
+{
+  "id": "65f50fa9f510bd96ebaede15",
+  "bill_description": "Leche deslactosada",
+  "product_name": "Leche"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50facf510bd96ebaede26",
+  "bill_description": "Solomo extranjero",
+  "product_name": "Res"
+},
+{
+  "id": "65f50fa9f510bd96ebaede18",
+  "bill_description": "Salchica",
+  "product_name": "Salchichas"
+},
+{
+  "id": "65f50fa9f510bd96ebaede17",
+  "bill_description": "Chorizo mixto artesanal",
+  "product_name": "Chorizos"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50facf510bd96ebaede2a",
+  "bill_description": "Tabla molida light",
+  "product_name": "Carne molida"
+},
+{
+  "id": "65f50fa5f510bd96ebaeddff",
+  "bill_description": "Limpiavidrios",
+  "product_name": "Limpia vidrio"
+},
+{
+  "id": "65f50fa5f510bd96ebaede00",
+  "bill_description": "Desengrasante",
+  "product_name": "desengrasante"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado artesanal",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50faff510bd96ebaede39",
+  "bill_description": "Mani con pasas",
+  "product_name": "Mani"
+},
+{
+  "id": "65f50faef510bd96ebaede33",
+  "bill_description": "Salsa de tomate",
+  "product_name": "Salsa de tomate"
+},
+{
+  "id": "65f50fabf510bd96ebaede22",
+  "bill_description": "Arandanos",
+  "product_name": "Arandanos natural"
+},
+{
+  "id": "65f50faef510bd96ebaede36",
+  "bill_description": "Camarones",
+  "product_name": "Camarones"
+},
+{
+  "id": "65f50fadf510bd96ebaede2b",
+  "bill_description": "Ramen carne",
+  "product_name": "Maruchan"
+},
+{
+  "id": "65f50fa9f510bd96ebaede14",
+  "bill_description": "Yogurt griego",
+  "product_name": "Yogurth griego"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfb",
+  "bill_description": "Mermelada",
+  "product_name": "Mermelada"
+},
+{
+  "id": "65f50fb0f510bd96ebaede42",
+  "bill_description": "Miel de abejas",
+  "product_name": "Miel"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf9",
+  "bill_description": "Champiñones tajados",
+  "product_name": "Champiñones"
+},
+{
+  "id": "65f50fa7f510bd96ebaede0c",
+  "bill_description": "Salsa de soya",
+  "product_name": "Salsa de soya"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf8",
+  "bill_description": "Harina de maiz",
+  "product_name": "Harina pan"
+},
+{
+  "id": "65f50fa9f510bd96ebaede16",
+  "bill_description": "Leche de almendras",
+  "product_name": "Leche de almendras"
+},
+{
+  "id": "65f50fa6f510bd96ebaede03",
+  "bill_description": "Papel higienico",
+  "product_name": "Papel higienico"
+},
+{
+  "id": "65f50fa6f510bd96ebaede02",
+  "bill_description": "Toalla de cocina",
+  "product_name": "toallas de cocina"
+},
+{
+  "id": "65f50fa9f510bd96ebaede15",
+  "bill_description": "Leche deslactosada",
+  "product_name": "Leche"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon de pollo",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa7f510bd96ebaede0c",
+  "bill_description": "Salsa de soya",
+  "product_name": "Salsa de soya"
+},
+{
+  "id": "65f50fadf510bd96ebaede2b",
+  "bill_description": "Ramen carne",
+  "product_name": "Maruchan"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevo",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50faaf510bd96ebaede1d",
+  "bill_description": "Durazno",
+  "product_name": "Melocoton"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimentón",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Fresa bandeja",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50fabf510bd96ebaede24",
+  "bill_description": "Uva isabelita",
+  "product_name": "Uva Isabelita"
+},
+{
+  "id": "65f50faff510bd96ebaede38",
+  "bill_description": "Salmon",
+  "product_name": "Salmon"
+},
+{
+  "id": "65f50faff510bd96ebaede37",
+  "bill_description": "Tilapia",
+  "product_name": "Pescado"
+},
+{
+  "id": "65f50fa7f510bd96ebaede0a",
+  "bill_description": "Panela granulada",
+  "product_name": "Panela organica"
+},
+{
+  "id": "65f50fb1f510bd96ebaede43",
+  "bill_description": "Arroz",
+  "product_name": "Arroz"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf2",
+  "bill_description": "Tostadas",
+  "product_name": "Tostadas"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50facf510bd96ebaede26",
+  "bill_description": "Solomo extranjero",
+  "product_name": "Res"
+},
+{
+  "id": "65f50fa9f510bd96ebaede17",
+  "bill_description": "Chorizo mixto",
+  "product_name": "Chorizos"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga refrigerada",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Pernil",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf6",
+  "bill_description": "Pan Hamburguesa",
+  "product_name": "Pan de hamburguesa"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Pernil sin piel",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevo AAA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50faaf510bd96ebaede1d",
+  "bill_description": "Durazno",
+  "product_name": "Melocoton"
+},
+{
+  "id": "65f50fabf510bd96ebaede24",
+  "bill_description": "Uva isabelina",
+  "product_name": "Uva Isabelita"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Fresa bandeja",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fabf510bd96ebaede23",
+  "bill_description": "Arandanos deshidratados",
+  "product_name": "Arandanos deshidratado"
+},
+{
+  "id": "65f50fa9f510bd96ebaede15",
+  "bill_description": "Leche deslactosada",
+  "product_name": "Leche"
+},
+{
+  "id": "65f50fa5f510bd96ebaede01",
+  "bill_description": "Esponja",
+  "product_name": "esponjas"
+},
+{
+  "id": "65f50fa9f510bd96ebaede16",
+  "bill_description": "Leche de almendras",
+  "product_name": "Leche de almendras"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamón de cerdo",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfb",
+  "bill_description": "Mermelada",
+  "product_name": "Mermelada"
+},
+{
+  "id": "65f50facf510bd96ebaede26",
+  "bill_description": "Solomo extranjero",
+  "product_name": "Res"
+},
+{
+  "id": "65f50fb0f510bd96ebaede41",
+  "bill_description": "Avena en hojuela",
+  "product_name": "Avena"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3d",
+  "bill_description": "Café buen día orgánico",
+  "product_name": "Café"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3e",
+  "bill_description": "Gelatina sin azucar",
+  "product_name": "Gelatinas"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfa",
+  "bill_description": "Atun en agua",
+  "product_name": "Atún"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevo AAA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf2",
+  "bill_description": "Tostadas",
+  "product_name": "Tostadas"
+},
+{
+  "id": "65f50fa9f510bd96ebaede12",
+  "bill_description": "Ajo en polvo",
+  "product_name": "Ajo en polvo"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfa",
+  "bill_description": "Atun en agua",
+  "product_name": "Atún"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf3",
+  "bill_description": "Mezcla pancakes",
+  "product_name": "Mezcla de pancakes"
+},
+{
+  "id": "65f50fb1f510bd96ebaede44",
+  "bill_description": "Esparcible rama line",
+  "product_name": "Mantequilla"
+},
+{
+  "id": "65f50facf510bd96ebaede26",
+  "bill_description": "Solomo extranjero",
+  "product_name": "Res"
+},
+{
+  "id": "65f50facf510bd96ebaede2a",
+  "bill_description": "Tabla molida light",
+  "product_name": "Carne molida"
+},
+{
+  "id": "65f50facf510bd96ebaede26",
+  "bill_description": "Cabeza de cañon",
+  "product_name": "Res"
+},
+{
+  "id": "65f50fa9f510bd96ebaede17",
+  "bill_description": "Chorizo mixto",
+  "product_name": "Chorizos"
+},
+{
+  "id": "65f50faff510bd96ebaede38",
+  "bill_description": "Salmon",
+  "product_name": "Salmon"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamón de pavo",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa9f510bd96ebaede15",
+  "bill_description": "Leche deslactosada",
+  "product_name": "Leche"
+},
+{
+  "id": "65f50fa7f510bd96ebaede0c",
+  "bill_description": "Salsa de soya",
+  "product_name": "Salsa de soya"
+},
+{
+  "id": "65f50fa9f510bd96ebaede16",
+  "bill_description": "Leche de almendras",
+  "product_name": "Leche de almendras"
+},
+{
+  "id": "65f50fa6f510bd96ebaede02",
+  "bill_description": "Toalla de cocina",
+  "product_name": "toallas de cocina"
+},
+{
+  "id": "65f50fa6f510bd96ebaede03",
+  "bill_description": "Papel higienico",
+  "product_name": "Papel higienico"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga Crespa",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50faaf510bd96ebaede1d",
+  "bill_description": "Durazno",
+  "product_name": "Melocoton"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimentón",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevo campesino AAA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50fb3f510bd96ebaede4f",
+  "bill_description": "Cebolla Roja",
+  "product_name": "Cebolla roja"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango Tommy",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4a",
+  "bill_description": "Ajo",
+  "product_name": "Ajo"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla blanca",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fb1f510bd96ebaede48",
+  "bill_description": "Tomate chrerry",
+  "product_name": "Tomate cherry"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Fresa bandeja",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50fb4f510bd96ebaede54",
+  "bill_description": "Perejil crespo",
+  "product_name": "Perejil"
+},
+{
+  "id": "65f50fb4f510bd96ebaede54",
+  "bill_description": "Perejil liso",
+  "product_name": "Perejil"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "Limón tahití",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa capira",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fa5f510bd96ebaeddfc",
+  "bill_description": "Ariel triple poder",
+  "product_name": "Detergente"
+},
+{
+  "id": "65f50fadf510bd96ebaede2b",
+  "bill_description": "Ramen carne",
+  "product_name": "Maruchan"
+},
+{
+  "id": "65f50fa6f510bd96ebaede06",
+  "bill_description": "Lavaplatos",
+  "product_name": "Jabon de platos"
+},
+{
+  "id": "65f50fadf510bd96ebaede2d",
+  "bill_description": "Jabon líquido sin aroma",
+  "product_name": "Jabon de manos"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3d",
+  "bill_description": "Café liofilizado",
+  "product_name": "Café"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango Frchil",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50fabf510bd96ebaede20",
+  "bill_description": "Piña",
+  "product_name": "Piña"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla blanca",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50fb3f510bd96ebaede53",
+  "bill_description": "Cilantro",
+  "product_name": "Cilantro"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50faaf510bd96ebaede1d",
+  "bill_description": "Durazno",
+  "product_name": "Melocoton"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimentón",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "Limón tahití",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga Crespa",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3e",
+  "bill_description": "Gelatina sin azucar",
+  "product_name": "Gelatinas"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado brioche",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50fadf510bd96ebaede2f",
+  "bill_description": "Crema dental max",
+  "product_name": "Crema de dientes"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3d",
+  "bill_description": "Cafe organico",
+  "product_name": "Café"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga refrigerada",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Pernil sin piel",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50facf510bd96ebaede26",
+  "bill_description": "Extranjero",
+  "product_name": "Res"
+},
+{
+  "id": "65f50fa9f510bd96ebaede17",
+  "bill_description": "Chorizo mixto",
+  "product_name": "Chorizos"
+},
+{
+  "id": "65f50fa9f510bd96ebaede15",
+  "bill_description": "Leche deslactosada",
+  "product_name": "Leche"
+},
+{
+  "id": "65f50faaf510bd96ebaede1b",
+  "bill_description": "Queso mozarella bloque",
+  "product_name": "Queso bloque"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon de pavo",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfb",
+  "bill_description": "Mermelada",
+  "product_name": "Mermelada"
+},
+{
+  "id": "65f50fabf510bd96ebaede22",
+  "bill_description": "Arandanos",
+  "product_name": "Arandanos natural"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa capira",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50faaf510bd96ebaede1d",
+  "bill_description": "Durazno",
+  "product_name": "Melocoton"
+},
+{
+  "id": "65f50fb1f510bd96ebaede48",
+  "bill_description": "Tomate cherry",
+  "product_name": "Tomate cherry"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Fresa bandeja",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf4",
+  "bill_description": "Galleta multicereal",
+  "product_name": "Galletas de avena"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevo AAA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fa9f510bd96ebaede14",
+  "bill_description": "Yogurt griego",
+  "product_name": "Yogurth griego"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf8",
+  "bill_description": "Harina de maiz",
+  "product_name": "Harina pan"
+},
+{
+  "id": "65f50fb0f510bd96ebaede42",
+  "bill_description": "Miel de abejas",
+  "product_name": "Miel"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf4",
+  "bill_description": "Galleta granola",
+  "product_name": "Galletas de avena"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfa",
+  "bill_description": "Atun en agua",
+  "product_name": "Atún"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf3",
+  "bill_description": "Mezcla pancakes",
+  "product_name": "Mezcla de pancakes"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf2",
+  "bill_description": "Tostadas",
+  "product_name": "Tostadas"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga campesina",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Contramuslo sin piel",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon ideal",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf9",
+  "bill_description": "Champiñones tajados",
+  "product_name": "Champiñones"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado artesanal",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50fa9f510bd96ebaede15",
+  "bill_description": "Leche deslactosada",
+  "product_name": "Leche"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon de pavo",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa sin lavar",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50faaf510bd96ebaede1c",
+  "bill_description": "Costillas de cerdo",
+  "product_name": "Costillas"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevos AA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50faaf510bd96ebaede1a",
+  "bill_description": "Queso mozarella tajado",
+  "product_name": "Queso tajado"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fa9f510bd96ebaede17",
+  "bill_description": "Chorizo mixto",
+  "product_name": "Chorizos"
+},
+{
+  "id": "65f50facf510bd96ebaede26",
+  "bill_description": "Cañon",
+  "product_name": "Res"
+},
+{
+  "id": "65f50facf510bd96ebaede26",
+  "bill_description": "Extranjero",
+  "product_name": "Res"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Fresa bandeja",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fb3f510bd96ebaede51",
+  "bill_description": "Papa criolla",
+  "product_name": "Papa amarilla"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50fb4f510bd96ebaede54",
+  "bill_description": "Perejil liso",
+  "product_name": "Perejil"
+},
+{
+  "id": "65f50fb4f510bd96ebaede54",
+  "bill_description": "Perejil crespo",
+  "product_name": "Perejil"
+},
+{
+  "id": "65f50fabf510bd96ebaede22",
+  "bill_description": "Arandanos",
+  "product_name": "Arandanos natural"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango Tommy",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4a",
+  "bill_description": "Ajo",
+  "product_name": "Ajo"
+},
+{
+  "id": "65f50fb3f510bd96ebaede4f",
+  "bill_description": "Cebolla roja",
+  "product_name": "Cebolla roja"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa capira",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "Limón tahití",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimentón",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50faaf510bd96ebaede1d",
+  "bill_description": "Durazno",
+  "product_name": "Melocoton"
+},
+{
+  "id": "65f50fb1f510bd96ebaede48",
+  "bill_description": "Tomate cherry",
+  "product_name": "Tomate cherry"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon ideal",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3e",
+  "bill_description": "Gelatina light",
+  "product_name": "Gelatinas"
+},
+{
+  "id": "65f50fb1f510bd96ebaede43",
+  "bill_description": "Arroz",
+  "product_name": "Arroz"
+},
+{
+  "id": "65f50fb1f510bd96ebaede45",
+  "bill_description": "Sal",
+  "product_name": "Sal"
+},
+{
+  "id": "65f50fadf510bd96ebaede2f",
+  "bill_description": "Crema dental Coffee lover",
+  "product_name": "Crema de dientes"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf8",
+  "bill_description": "Harina de maiz",
+  "product_name": "Harina pan"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf2",
+  "bill_description": "Tostadas",
+  "product_name": "Tostadas"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3d",
+  "bill_description": "Cafe organico",
+  "product_name": "Café"
+},
+{
+  "id": "65f50fb1f510bd96ebaede44",
+  "bill_description": "Margarina line",
+  "product_name": "Mantequilla"
+},
+{
+  "id": "65f50fa5f510bd96ebaeddfe",
+  "bill_description": "Limpiador de pisos - Rosa",
+  "product_name": "aroma piso"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Pernil sin piel",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga campesina",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50faef510bd96ebaede31",
+  "bill_description": "Seda dental",
+  "product_name": "Seda dental"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfb",
+  "bill_description": "Mermelada",
+  "product_name": "Mermelada"
+},
+{
+  "id": "65f50fa9f510bd96ebaede15",
+  "bill_description": "Leche deslactosada",
+  "product_name": "Leche"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevos AA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Pernil sin piel",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50faff510bd96ebaede38",
+  "bill_description": "Filete de salmon",
+  "product_name": "Salmon"
+},
+{
+  "id": "65f50fa9f510bd96ebaede18",
+  "bill_description": "Salchicha llanera",
+  "product_name": "Salchichas"
+},
+{
+  "id": "65f50fa8f510bd96ebaede10",
+  "bill_description": "Adobo pollo",
+  "product_name": "Adobo pollo"
+},
+{
+  "id": "65f50fa8f510bd96ebaede0e",
+  "bill_description": "Adobo cerdo",
+  "product_name": "Adobo cerdo"
+},
+{
+  "id": "65f50fa8f510bd96ebaede0f",
+  "bill_description": "Adobo res",
+  "product_name": "Adobo res"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50fa6f510bd96ebaede02",
+  "bill_description": "Toalla de cocina",
+  "product_name": "toallas de cocina"
+},
+{
+  "id": "65f50fa9f510bd96ebaede16",
+  "bill_description": "Leche de almendras",
+  "product_name": "Leche de almendras"
+},
+{
+  "id": "65f50fa9f510bd96ebaede15",
+  "bill_description": "Leche deslactosada",
+  "product_name": "Leche"
+},
+{
+  "id": "65f50facf510bd96ebaede26",
+  "bill_description": "Extranjero",
+  "product_name": "Res"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50fa9f510bd96ebaede17",
+  "bill_description": "Chorizo mixto",
+  "product_name": "Chorizos"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango Tommy",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50fb3f510bd96ebaede4f",
+  "bill_description": "Cebolla roja",
+  "product_name": "Cebolla roja"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "Limon tahiti",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50faaf510bd96ebaede1d",
+  "bill_description": "Durazno",
+  "product_name": "Melocoton"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimentón",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fb3f510bd96ebaede51",
+  "bill_description": "Papa criolla",
+  "product_name": "Papa amarilla"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla blanca",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fabf510bd96ebaede20",
+  "bill_description": "Piña",
+  "product_name": "Piña"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Fresa bandeja",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50faef510bd96ebaede35",
+  "bill_description": "Mostaza original",
+  "product_name": "Mostaza"
+},
+{
+  "id": "65f50facf510bd96ebaede2a",
+  "bill_description": "Molida",
+  "product_name": "Carne molida"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa capira",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb3f510bd96ebaede4f",
+  "bill_description": "Cebolla roja",
+  "product_name": "Cebolla roja"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla blanca",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimentón",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fb3f510bd96ebaede51",
+  "bill_description": "Papa criolla",
+  "product_name": "Papa amarilla"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "Limon tahiti",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevo campesino AAA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Pernil sin piel",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50fb1f510bd96ebaede43",
+  "bill_description": "Arroz",
+  "product_name": "Arroz"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon de pollo",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50faaf510bd96ebaede1c",
+  "bill_description": "Costillas de cerdo",
+  "product_name": "Costillas"
+},
+{
+  "id": "65f50fabf510bd96ebaede22",
+  "bill_description": "Arandanos",
+  "product_name": "Arandanos natural"
+},
+{
+  "id": "65f50fa7f510bd96ebaede0c",
+  "bill_description": "Salsa de soya",
+  "product_name": "Salsa de soya"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf2",
+  "bill_description": "Tostada integral",
+  "product_name": "Tostadas"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf9",
+  "bill_description": "Champiñones tajados",
+  "product_name": "Champiñones"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfb",
+  "bill_description": "Mermelada",
+  "product_name": "Mermelada"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf4",
+  "bill_description": "Galleta rellena",
+  "product_name": "Galletas de avena"
+},
+{
+  "id": "65f50fa6f510bd96ebaede02",
+  "bill_description": "Toalla de cocina",
+  "product_name": "toallas de cocina"
+},
+{
+  "id": "65f50fa9f510bd96ebaede17",
+  "bill_description": "Chorizos",
+  "product_name": "Chorizos"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Cerdo",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Contramuslos",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimenton",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Fresas",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevos",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fb1f510bd96ebaede44",
+  "bill_description": "Mantequilla",
+  "product_name": "Mantequilla"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa8f510bd96ebaede0f",
+  "bill_description": "Adobo res",
+  "product_name": "Adobo res"
+},
+{
+  "id": "65f50fa8f510bd96ebaede10",
+  "bill_description": "Adobo pollo",
+  "product_name": "Adobo pollo"
+},
+{
+  "id": "65f50fa8f510bd96ebaede0e",
+  "bill_description": "Adobo cerdo",
+  "product_name": "Adobo cerdo"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf2",
+  "bill_description": "Tostadas",
+  "product_name": "Tostadas"
+},
+{
+  "id": "65f50faff510bd96ebaede3c",
+  "bill_description": "Lentejas",
+  "product_name": "Lentejas"
+},
+{
+  "id": "65f50fa6f510bd96ebaede03",
+  "bill_description": "Papel higienico",
+  "product_name": "Papel higienico"
+},
+{
+  "id": "65f50fa7f510bd96ebaede0c",
+  "bill_description": "Salsa de soya",
+  "product_name": "Salsa de soya"
+},
+{
+  "id": "65f50fa9f510bd96ebaede16",
+  "bill_description": "Leche de almendras",
+  "product_name": "Leche de almendras"
+},
+{
+  "id": "65f50faaf510bd96ebaede1b",
+  "bill_description": "Queso bloque",
+  "product_name": "Queso bloque"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate aliño",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa capira",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimenton",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "Limones",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga crespa",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla huevo blanca",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevos AAA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon ideal",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate red",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb3f510bd96ebaede4f",
+  "bill_description": "Cebolla huevo roja",
+  "product_name": "Cebolla roja"
+},
+{
+  "id": "65f50faaf510bd96ebaede1d",
+  "bill_description": "Durazno común",
+  "product_name": "Melocoton"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf5",
+  "bill_description": "Galletas de soda",
+  "product_name": "Galletas de soda"
+},
+{
+  "id": "65f50fadf510bd96ebaede2f",
+  "bill_description": "Crema de dientes Max White ",
+  "product_name": "Crema de dientes"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga refrigerada",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50fa5f510bd96ebaeddfc",
+  "bill_description": "Detergente en polvo",
+  "product_name": "Detergente"
+},
+{
+  "id": "65f50fa6f510bd96ebaede07",
+  "bill_description": "Suavizante anti",
+  "product_name": "Suavizante"
+},
+{
+  "id": "65f50fa6f510bd96ebaede03",
+  "bill_description": "Papel higiénico ",
+  "product_name": "Papel higienico"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamón pechuga",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50faef510bd96ebaede32",
+  "bill_description": "Salsa moyomostaza",
+  "product_name": "Salsa showy"
+},
+{
+  "id": "65f50fa9f510bd96ebaede15",
+  "bill_description": "Leche deslactosada ",
+  "product_name": "Leche"
+},
+{
+  "id": "65f50fb1f510bd96ebaede46",
+  "bill_description": "Patacon pisao",
+  "product_name": "Patacones"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevo AAA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamón ideal",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf5",
+  "bill_description": "Galleta soda",
+  "product_name": "Galletas de soda"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50fa9f510bd96ebaede17",
+  "bill_description": "Chorizo mixto",
+  "product_name": "Chorizos"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf8",
+  "bill_description": "Harina pan",
+  "product_name": "Harina pan"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfb",
+  "bill_description": "Mermelada",
+  "product_name": "Mermelada"
+},
+{
+  "id": "65f50fa9f510bd96ebaede13",
+  "bill_description": "Crema de leche",
+  "product_name": "Crema de leche"
+},
+{
+  "id": "65f50fa5f510bd96ebaeddfe",
+  "bill_description": "aroma piso",
+  "product_name": "aroma piso"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfa",
+  "bill_description": "Atún",
+  "product_name": "Atún"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf9",
+  "bill_description": "Champiñones",
+  "product_name": "Champiñones"
+},
+{
+  "id": "65f50fb0f510bd96ebaede42",
+  "bill_description": "Miel",
+  "product_name": "Miel"
+},
+{
+  "id": "65f50fadf510bd96ebaede30",
+  "bill_description": "Cepillos de dientes",
+  "product_name": "Cepillos de dientes"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa capira",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50fb3f510bd96ebaede51",
+  "bill_description": "Papa criolla",
+  "product_name": "Papa amarilla"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Contramuslo",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50fb4f510bd96ebaede54",
+  "bill_description": "Perejil",
+  "product_name": "Perejil"
+},
+{
+  "id": "65f50fb3f510bd96ebaede53",
+  "bill_description": "Cilantro",
+  "product_name": "Cilantro"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Cerdo",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papas",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "Limones",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevos",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfa",
+  "bill_description": "Van camps en aceite",
+  "product_name": "Atún"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf5",
+  "bill_description": "Saltin Noel ",
+  "product_name": "Galletas de soda"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fadf510bd96ebaede2e",
+  "bill_description": "Jabon de avena",
+  "product_name": "Jabon de baño"
+},
+{
+  "id": "65f50fa9f510bd96ebaede17",
+  "bill_description": "Chorizo mixto",
+  "product_name": "Chorizos"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon ideal",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50faef510bd96ebaede32",
+  "bill_description": "Salsa showy",
+  "product_name": "Salsa showy"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3d",
+  "bill_description": "Café",
+  "product_name": "Café"
+},
+{
+  "id": "65f50fadf510bd96ebaede2d",
+  "bill_description": "Jabon liquido bambú",
+  "product_name": "Jabon de manos"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3f",
+  "bill_description": "Aceite de oliva",
+  "product_name": "Aceite de oliva"
+},
+{
+  "id": "65f50fa5f510bd96ebaeddfc",
+  "bill_description": "Detergente regular",
+  "product_name": "Detergente"
+},
+{
+  "id": "65f50fa6f510bd96ebaede06",
+  "bill_description": "Lavaplatos líquido limón",
+  "product_name": "Jabon de platos"
+},
+{
+  "id": "65f50fadf510bd96ebaede2f",
+  "bill_description": "Crema dental Max white",
+  "product_name": "Crema de dientes"
+},
+{
+  "id": "65f50fa6f510bd96ebaede04",
+  "bill_description": "Película plástica",
+  "product_name": "Papel osmotico"
+},
+{
+  "id": "65f50facf510bd96ebaede2a",
+  "bill_description": "Tabla molida light",
+  "product_name": "Carne molida"
+},
+{
+  "id": "65f50fa9f510bd96ebaede17",
+  "bill_description": "Chorizo mixto",
+  "product_name": "Chorizos"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Cabeza de cañon",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Pierna trasera",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50fa6f510bd96ebaede04",
+  "bill_description": "Tocino ahumado",
+  "product_name": "Papel osmotico"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Pernil mixto refrigerado",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango tommy",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevos",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "Limon tahiti",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fb4f510bd96ebaede54",
+  "bill_description": "Perejil liso",
+  "product_name": "Perejil"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga crespa verde",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla blanca",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4a",
+  "bill_description": "Ajo",
+  "product_name": "Ajo"
+},
+{
+  "id": "65f50fabf510bd96ebaede20",
+  "bill_description": "Piña",
+  "product_name": "Piña"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fb4f510bd96ebaede54",
+  "bill_description": "Perejil crespo",
+  "product_name": "Perejil"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50fb3f510bd96ebaede4f",
+  "bill_description": "Cebolla roja",
+  "product_name": "Cebolla roja"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimenton",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50faef510bd96ebaede36",
+  "bill_description": "Camaron surtido 80/100",
+  "product_name": "Camarones"
+},
+{
+  "id": "65f50faff510bd96ebaede38",
+  "bill_description": "Salmon",
+  "product_name": "Salmon"
+},
+{
+  "id": "65f50fb1f510bd96ebaede45",
+  "bill_description": "Sal",
+  "product_name": "Sal"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf3",
+  "bill_description": "Mezcla de pancakes avena",
+  "product_name": "Mezcla de pancakes"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfa",
+  "bill_description": "Atún en agua ",
+  "product_name": "Atún"
+},
+{
+  "id": "65f50fb1f510bd96ebaede43",
+  "bill_description": "Arroz",
+  "product_name": "Arroz"
+},
+{
+  "id": "65f50fb0f510bd96ebaede41",
+  "bill_description": "Avena hojuela",
+  "product_name": "Avena"
+},
+{
+  "id": "65f50faef510bd96ebaede33",
+  "bill_description": "Salsa de tomate doypack",
+  "product_name": "Salsa de tomate"
+},
+{
+  "id": "65f50fa3f510bd96ebaeddf5",
+  "bill_description": "Galleta saltin tradicional",
+  "product_name": "Galletas de soda"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado fit blanco",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50fadf510bd96ebaede2c",
+  "bill_description": "Vermicelli classiche",
+  "product_name": "Spaghetti"
+},
+{
+  "id": "65f50fadf510bd96ebaede30",
+  "bill_description": "Cepillos dental 360 luminous",
+  "product_name": "Cepillos de dientes"
+},
+{
+  "id": "65f50fadf510bd96ebaede2f",
+  "bill_description": "Crema dental Max white",
+  "product_name": "Crema de dientes"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3d",
+  "bill_description": "Café organico",
+  "product_name": "Café"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3e",
+  "bill_description": "Gelatina line",
+  "product_name": "Gelatinas"
+},
+{
+  "id": "65f50fb1f510bd96ebaede44",
+  "bill_description": "Margarina line ",
+  "product_name": "Mantequilla"
+},
+{
+  "id": "65f50fa7f510bd96ebaede0a",
+  "bill_description": "Panela",
+  "product_name": "Panela organica"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3f",
+  "bill_description": "Aceite de oliva euro Max",
+  "product_name": "Aceite de oliva"
+},
+{
+  "id": "65f50fa8f510bd96ebaede0f",
+  "bill_description": "Adobo de res ",
+  "product_name": "Adobo res"
+},
+{
+  "id": "65f50fa8f510bd96ebaede0e",
+  "bill_description": "Adobo de cerdo",
+  "product_name": "Adobo cerdo"
+},
+{
+  "id": "65f50fa8f510bd96ebaede10",
+  "bill_description": "Adobo pollo",
+  "product_name": "Adobo pollo"
+},
+{
+  "id": "65f50fa6f510bd96ebaede03",
+  "bill_description": "Papel higienico",
+  "product_name": "Papel higienico"
+},
+{
+  "id": "65f50fb0f510bd96ebaede42",
+  "bill_description": "Miel",
+  "product_name": "Miel"
+},
+{
+  "id": "65f50faaf510bd96ebaede1a",
+  "bill_description": "Queso mozarella tajado",
+  "product_name": "Queso tajado"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf9",
+  "bill_description": "Champiñones",
+  "product_name": "Champiñones"
+},
+{
+  "id": "65f50fabf510bd96ebaede22",
+  "bill_description": "Arandanos natural",
+  "product_name": "Arandanos natural"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa capira",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate de aliño",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon sanduche",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfa",
+  "bill_description": "Atún en agua",
+  "product_name": "Atún"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevos AAA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50facf510bd96ebaede26",
+  "bill_description": "Entretabla de res al vacio",
+  "product_name": "Res"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Milanesa de cerdo",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50fb4f510bd96ebaede54",
+  "bill_description": "Perejil liso",
+  "product_name": "Perejil"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huvo extra rojo",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga bandeja",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddfb",
+  "bill_description": "Mermelada",
+  "product_name": "Mermelada"
+},
+{
+  "id": "65f50fa6f510bd96ebaede07",
+  "bill_description": "Suavizante",
+  "product_name": "Suavizante"
+},
+{
+  "id": "65f50fa7f510bd96ebaede08",
+  "bill_description": "Limpia superficies",
+  "product_name": "Limpia superficies"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria ",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla de",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50fb3f510bd96ebaede4f",
+  "bill_description": "Cebolla de",
+  "product_name": "Cebolla roja"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa capira",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fabf510bd96ebaede21",
+  "bill_description": "Fresa bandeja",
+  "product_name": "Fresas"
+},
+{
+  "id": "65f50fa9f510bd96ebaede14",
+  "bill_description": "Yogur griego",
+  "product_name": "Yogurth griego"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimentón",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga crespa",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede27",
+  "bill_description": "Carne pulpa de cerdo",
+  "product_name": "Cerdo"
+},
+{
+  "id": "65f50facf510bd96ebaede29",
+  "bill_description": "Contramuslo bandeja",
+  "product_name": "Contramuslos"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga de pollo",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50fb1f510bd96ebaede48",
+  "bill_description": "Tomate cherry",
+  "product_name": "Tomate cherry"
+},
+{
+  "id": "65f50fa9f510bd96ebaede12",
+  "bill_description": "Ajo en polvo",
+  "product_name": "Ajo en polvo"
+},
+{
+  "id": "65f50fabf510bd96ebaede22",
+  "bill_description": "Arandanos natural",
+  "product_name": "Arandanos natural"
+},
+{
+  "id": "65f50fabf510bd96ebaede24",
+  "bill_description": "Uva Isabelita",
+  "product_name": "Uva Isabelita"
+},
+{
+  "id": "65f50faef510bd96ebaede34",
+  "bill_description": "Salsa de maiz",
+  "product_name": "Salsa de maiz"
+},
+{
+  "id": "65f50fa6f510bd96ebaede02",
+  "bill_description": "toallas de cocina",
+  "product_name": "toallas de cocina"
+},
+{
+  "id": "65f50faef510bd96ebaede31",
+  "bill_description": "Seda dental",
+  "product_name": "Seda dental"
+},
+{
+  "id": "65f50faef510bd96ebaede32",
+  "bill_description": "Salsa showy",
+  "product_name": "Salsa showy"
+},
+{
+  "id": "65f50fa9f510bd96ebaede18",
+  "bill_description": "Salchichas",
+  "product_name": "Salchichas"
+},
+{
+  "id": "65f50fb0f510bd96ebaede40",
+  "bill_description": "Huevo AAA",
+  "product_name": "Huevos"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate chonto",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimenton",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50fabf510bd96ebaede20",
+  "bill_description": "Piña oro miel",
+  "product_name": "Piña"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde empacada",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf7",
+  "bill_description": "Pan tajado fit blanco",
+  "product_name": "Pan tajado"
+},
+{
+  "id": "65f50fb4f510bd96ebaede54",
+  "bill_description": "Perejil liso",
+  "product_name": "Perejil"
+},
+{
+  "id": "65f50fb3f510bd96ebaede50",
+  "bill_description": "Papa capira",
+  "product_name": "Papas"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon ideal",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3e",
+  "bill_description": "Gelatina light",
+  "product_name": "Gelatinas"
+},
+{
+  "id": "65f50fb3f510bd96ebaede52",
+  "bill_description": "Limón común",
+  "product_name": "Limones"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga crespa verde",
+  "product_name": "Lechuga"
+},
+{
+  "id": "65f50fa4f510bd96ebaeddf9",
+  "bill_description": "Champiñon tajado",
+  "product_name": "Champiñones"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate hass",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb1f510bd96ebaede48",
+  "bill_description": "Tomate cherry bandeja",
+  "product_name": "Tomate cherry"
+},
+{
+  "id": "65f50faaf510bd96ebaede19",
+  "bill_description": "Jamon ideal",
+  "product_name": "Jamon"
+},
+{
+  "id": "65f50fa9f510bd96ebaede14",
+  "bill_description": "Yogurt griego natural",
+  "product_name": "Yogurth griego"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3d",
+  "bill_description": "Café organico frasco  ",
+  "product_name": "Café"
+},
+{
+  "id": "65f50fb1f510bd96ebaede48",
+  "bill_description": "Tomate cherry bandeja",
+  "product_name": "Tomate cherry"
+},
+{
+  "id": "65f50fb1f510bd96ebaede44",
+  "bill_description": "Margarina light",
+  "product_name": "Mantequilla"
+},
+{
+  "id": "65f50fabf510bd96ebaede22",
+  "bill_description": "Arandanos fruver ",
+  "product_name": "Arandanos natural"
+},
+{
+  "id": "65f50facf510bd96ebaede25",
+  "bill_description": "Mango tomy",
+  "product_name": "Mango"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga band s/piel  x kilo",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50facf510bd96ebaede28",
+  "bill_description": "Pechuga band s/piel  x kilo",
+  "product_name": "Pechuga"
+},
+{
+  "id": "65f50fb3f510bd96ebaede51",
+  "bill_description": "Papa criolla",
+  "product_name": "Papa amarilla"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano criollo",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4b",
+  "bill_description": "Tomate chonto",
+  "product_name": "Tomate"
+},
+{
+  "id": "65f50fadf510bd96ebaede2d",
+  "bill_description": "Jabon liquido rpto a/bam",
+  "product_name": "Jabon de manos"
+},
+{
+  "id": "65f50fb4f510bd96ebaede54",
+  "bill_description": "Perejil liso",
+  "product_name": "Perejil"
+},
+{
+  "id": "65f50fb2f510bd96ebaede49",
+  "bill_description": "Aguacate lorena",
+  "product_name": "Aguacate"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4e",
+  "bill_description": "Cebolla blanca",
+  "product_name": "Cebolla"
+},
+{
+  "id": "65f50fa6f510bd96ebaede02",
+  "bill_description": "Toalla cocina acolchamax gr 4hj",
+  "product_name": "toallas de cocina"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3e",
+  "bill_description": "Gelatina zero kit ",
+  "product_name": "Gelatinas"
+},
+{
+  "id": "65f50fb0f510bd96ebaede3f",
+  "bill_description": "Aceite de oliva euroma",
+  "product_name": "Aceite de oliva"
+},
+{
+  "id": "65f50fabf510bd96ebaede1f",
+  "bill_description": "Manzana verde",
+  "product_name": "Manzana verde"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4c",
+  "bill_description": "Pimenton",
+  "product_name": "Pimenton"
+},
+{
+  "id": "65f50faaf510bd96ebaede1e",
+  "bill_description": "Banano criollo",
+  "product_name": "Banano"
+},
+{
+  "id": "65f50fb2f510bd96ebaede4d",
+  "bill_description": "Zanahoria",
+  "product_name": "Zanahoria"
+},
+{
+  "id": "65f50fb1f510bd96ebaede47",
+  "bill_description": "Lechuga verde crespa camsal",
+  "product_name": "Lechuga"
+}]
